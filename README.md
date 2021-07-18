@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RX-78-2-98
+- 👀 I’m interested in Gundam, Data Sciences, and Business Intelligence
+- 🌱 I’m currently learning Python
+- 📫 How to reach me annemtrinidad@gmail.com
